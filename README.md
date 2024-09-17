@@ -1,2 +1,2 @@
-# DotNET Basic Application 
- Basic application of asp.net 
+# Dot NET Basic Application 
+ Asp.net Basic Application (CRUD, AUTHENTICATION and AUTHORIZATION)
